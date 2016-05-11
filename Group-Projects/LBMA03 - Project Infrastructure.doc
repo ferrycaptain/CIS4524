@@ -1,0 +1,479 @@
+{\rtf1\ansi\ansicpg1252\deff0\uc1
+{\fonttbl
+{\f0\fnil\fcharset0\fprq0\fttruetype Times New Roman;}
+{\f1\fnil\fcharset0\fprq0\fttruetype Arial;}
+{\f2\fnil\fcharset0\fprq0\fttruetype Courier New;}}
+{\colortbl
+\red0\green0\blue0;
+\red255\green255\blue255;
+\red255\green255\blue255;
+\red17\green85\blue204;}
+{\stylesheet
+{\s5\tx1584\sbasedon34\snext31 Chapter Heading;}
+{\s3\fi-431\li720 Box List;}
+{\s33\sbasedon31 Normal Table;}
+{\s28\fi-431\li720\sbasedon37 Lower Case List;}
+{\s46\sbasedon31 _Normal;}
+{\s43\fi-431\li720 Triangle List;}
+{\s21\sb440\sa60\f1\fs34\b\sbasedon31\snext31 Heading 1;}
+{\s22\sb440\sa60\f1\fs28\b\sbasedon31\snext31 Heading 2;}
+{\s4\fi-431\li720 Bullet List;}
+{\s24\sb440\sa60\f1\fs24\b\sbasedon31\snext31 Heading 4;}
+{\s30\sbasedon31 No List;}
+{\s1\fi-431\li720 Arrowhead List;}
+{\*\cs12\sbasedon31 Default Paragraph Font;}
+{\s40\fi-431\li720 Square List;}
+{\s10\qc\sb240\sa120\f1\fs32\b\sbasedon31\snext31 Contents Header;}
+{\s44\fi-431\li720\sbasedon37 Upper Case List;}
+{\s19\fs20\sbasedon31 Footnote Text;}
+{\s23\sb440\sa60\f1\fs24\b\sbasedon31\snext31 Heading 3;}
+{\s32\sb100\sa100\f0\fs24\sbasedon46 Normal (Web);}
+{\s37\fi-431\li720 Numbered List;}
+{\s13\fi-431\li720 Diamond List;}
+{\s25\fi-431\li720 Heart List;}
+{\s2\li1440\ri1440\sa120\sbasedon31 Block Text;}
+{\s45\fi-431\li720\sbasedon37 Upper Roman List;}
+{\s31\f0\fs22\lang1025\sbasedon31 Normal;}
+{\s20\fi-431\li720 Hand List;}
+{\s38\f2\sbasedon31 Plain Text;}
+{\s41\fi-431\li720 Star List;}
+{\s39\tx1584\sbasedon34\snext31 Section Heading;}
+{\s26\fi-431\li720 Implies List;}
+{\s42\fi-431\li720 Tick List;}
+{\s27\li720\sbasedon46 List Paragraph;}
+{\s14\fi-288\li288\sbasedon31 Endnote;}
+{\s11\fi-431\li720 Dashed List;}
+{\s29\fi-431\li720\sbasedon31 Lower Roman List;}
+{\*\cs18\fs20\super Footnote Reference;}
+{\s16\sbasedon31 Endnote Text;}
+{\*\cs15\fs20\super Endnote Reference;}
+{\s34\tx431\sbasedon21\snext31 Numbered Heading 1;}
+{\s35\tx431\sbasedon22\snext31 Numbered Heading 2;}
+{\s36\tx431\sbasedon23\snext31 Numbered Heading 3;}
+{\s17\fi-288\li288\fs20\sbasedon31 Footnote;}
+{\s6\fi-431\li720\sbasedon31\snext31 Contents 1;}
+{\s7\fi-431\li1440\sbasedon31\snext31 Contents 2;}
+{\s8\fi-431\li2160\sbasedon31\snext31 Contents 3;}
+{\s9\fi-431\li2880\sbasedon31\snext31 Contents 4;}}
+{\*\listtable
+{\list\listtemplateid1794{\listlevel\levelnfc23\levelstartat0\levelspace0\levelfollow0\fi-431\li1440{\leveltext\'01\u8226 ;}{\levelnumbers;}}{\listlevel\levelnfc23\levelstartat0\levelspace0\levelfollow0\fi-431\li2160{\leveltext\'01\u8226 ;}{\levelnumbers;}}{\listlevel\levelnfc23\levelstartat0\levelspace0\levelfollow0\fi-431\li2880{\leveltext\'01\u8226 ;}{\levelnumbers;}}{\listlevel\levelnfc23\levelstartat0\levelspace0\levelfollow0\fi-431\li1440{\leveltext\'01\u8226 ;}{\levelnumbers;}}{\listlevel\levelnfc23\levelstartat0\levelspace0\levelfollow0\fi-431\li1440{\leveltext\'01\u8226 ;}{\levelnumbers;}}{\listlevel\levelnfc23\levelstartat0\levelspace0\levelfollow0\fi-431\li1440{\leveltext\'01\u8226 ;}{\levelnumbers;}}{\listlevel\levelnfc23\levelstartat0\levelspace0\levelfollow0\fi-431\li1440{\leveltext\'01\u8226 ;}{\levelnumbers;}}{\listlevel\levelnfc23\levelstartat0\levelspace0\levelfollow0\fi-431\li1440{\leveltext\'01\u8226 ;}{\levelnumbers;}}{\listlevel\levelnfc23\levelstartat0\levelspace0\levelfollow0\fi-431\li1440{\leveltext\'01\u8226 ;}{\levelnumbers;}}\listid1322}
+{\list\listtemplateid1795\listsimple{\listlevel\levelnfc0\levelstartat1\levelspace0\levelfollow0\fi-360\li720{\leveltext\'02\'00.;}{\levelnumbers\'01;}}\listid100}
+{\list\listtemplateid1796\listsimple{\listlevel\levelnfc23\levelstartat0\levelspace0\levelfollow0\fi-430\li1440{\leveltext\'01\u8226 ;}{\levelnumbers;}}\listid1291}
+{\list\listtemplateid1797\listsimple{\listlevel\levelnfc23\levelstartat0\levelspace0\levelfollow0\fi-430\li1440{\leveltext\'01\u8226 ;}{\levelnumbers;}}\listid1292}
+{\list\listtemplateid1798\listsimple{\listlevel\levelnfc23\levelstartat0\levelspace0\levelfollow0\fi-431\li1440{\leveltext\'01\u8226 ;}{\levelnumbers;}}\listid1293}
+{\list\listtemplateid1799\listsimple{\listlevel\levelnfc23\levelstartat0\levelspace0\levelfollow0\fi-431\li1440{\leveltext\'01\u8226 ;}{\levelnumbers;}}\listid1296}
+{\list\listtemplateid1800\listsimple{\listlevel\levelnfc23\levelstartat0\levelspace0\levelfollow0\fi-431\li720{\leveltext\'01\u8226 ;}{\levelnumbers;}}\listid1}
+{\list\listtemplateid1801\listsimple{\listlevel\levelnfc23\levelstartat0\levelspace0\levelfollow0\fi-431\li720{\leveltext\'01\u8226 ;}{\levelnumbers;}}\listid3}
+{\list\listtemplateid1802\listsimple{\listlevel\levelnfc23\levelstartat0\levelspace0\levelfollow0\fi-431\li720{\leveltext\'01\u8226 ;}{\levelnumbers;}}\listid4}
+{\list\listtemplateid1803\listsimple{\listlevel\levelnfc23\levelstartat0\levelspace0\levelfollow0\fi-431\li720{\leveltext\'01\u8226 ;}{\levelnumbers;}}\listid5}
+{\list\listtemplateid1804\listsimple{\listlevel\levelnfc23\levelstartat0\levelspace0\levelfollow0\fi-431\li720{\leveltext\'01\u8226 ;}{\levelnumbers;}}\listid6}
+{\list\listtemplateid1805\listsimple{\listlevel\levelnfc0\levelstartat1\levelspace0\levelfollow0\fi-431\li720{\leveltext\'01\'00;}{\levelnumbers\'01;}}\listid2}
+{\list\listtemplateid1806\listsimple{\listlevel\levelnfc23\levelstartat0\levelspace0\levelfollow0\fi-431\li1440{\leveltext\'01\u8226 ;}{\levelnumbers;}}\listid1415}}
+{\*\listoverridetable
+{\listoverride\listoverridecount0\listid100\levelnfc0\levelstartat1\levelspace0\levelfollow0\fi-360\li720{\leveltext\'02\'00.;}{\levelnumbers\'01;}\ls1}
+{\listoverride\listoverridecount0\listid1291\levelnfc23\levelstartat0\levelspace0\levelfollow0\fi-430\li1440{\leveltext\'01\u8226 ;}{\levelnumbers;}\ls2}
+{\listoverride\listoverridecount0\listid1292\levelnfc23\levelstartat0\levelspace0\levelfollow0\fi-430\li1440{\leveltext\'01\u8226 ;}{\levelnumbers;}\ls3}
+{\listoverride\listoverridecount0\listid1293\levelnfc23\levelstartat0\levelspace0\levelfollow0\fi-431\li1440{\leveltext\'01\u8226 ;}{\levelnumbers;}\ls4}
+{\listoverride\listoverridecount0\listid1296\levelnfc23\levelstartat0\levelspace0\levelfollow0\fi-431\li1440{\leveltext\'01\u8226 ;}{\levelnumbers;}\ls5}
+{\listoverride\listoverridecount0\listid1\levelnfc23\levelstartat0\levelspace0\levelfollow0\fi-431\li720{\leveltext\'01\u8226 ;}{\levelnumbers;}\ls6}
+{\listoverride\listoverridecount0\listid3\levelnfc23\levelstartat0\levelspace0\levelfollow0\fi-431\li720{\leveltext\'01\u8226 ;}{\levelnumbers;}\ls7}
+{\listoverride\listoverridecount0\listid4\levelnfc23\levelstartat0\levelspace0\levelfollow0\fi-431\li720{\leveltext\'01\u8226 ;}{\levelnumbers;}\ls8}
+{\listoverride\listoverridecount0\listid5\levelnfc23\levelstartat0\levelspace0\levelfollow0\fi-431\li720{\leveltext\'01\u8226 ;}{\levelnumbers;}\ls9}
+{\listoverride\listoverridecount0\listid6\levelnfc23\levelstartat0\levelspace0\levelfollow0\fi-431\li720{\leveltext\'01\u8226 ;}{\levelnumbers;}\ls10}
+{\listoverride\listoverridecount0\listid1322\levelnfc23\levelstartat0\levelspace0\levelfollow0\fi-431\li1440{\leveltext\'01\u8226 ;}{\levelnumbers;}\ls11}
+{\listoverride\listoverridecount0\listid1322\levelnfc23\levelstartat0\levelspace0\levelfollow0\fi-431\li2160{\leveltext\'01\u8226 ;}{\levelnumbers;}\ls12}
+{\listoverride\listoverridecount0\listid1322\levelnfc23\levelstartat0\levelspace0\levelfollow0\fi-431\li2160{\leveltext\'01\u8226 ;}{\levelnumbers;}\ls13}
+{\listoverride\listoverridecount0\listid1322\levelnfc23\levelstartat0\levelspace0\levelfollow0\fi-431\li2160{\leveltext\'01\u8226 ;}{\levelnumbers;}\ls14}
+{\listoverride\listoverridecount0\listid1322\levelnfc23\levelstartat0\levelspace0\levelfollow0\fi-431\li2160{\leveltext\'01\u8226 ;}{\levelnumbers;}\ls15}
+{\listoverride\listoverridecount0\listid2\levelnfc0\levelstartat1\levelspace0\levelfollow0\fi-431\li720{\leveltext\'01\'00;}{\levelnumbers\'01;}\ls16}
+{\listoverride\listoverridecount0\listid1415\levelnfc23\levelstartat0\levelspace0\levelfollow0\fi-431\li1440{\leveltext\'01\u8226 ;}{\levelnumbers;}\ls17}
+{\listoverride\listoverridecount0\listid1322\levelnfc23\levelstartat0\levelspace0\levelfollow0\fi-431\li2880{\leveltext\'01\u8226 ;}{\levelnumbers;}\ls18}
+{\listoverride\listoverridecount0\listid1322\levelnfc23\levelstartat0\levelspace0\levelfollow0\fi-431\li2880{\leveltext\'01\u8226 ;}{\levelnumbers;}\ls19}
+{\listoverride\listoverridecount0\listid1322\levelnfc23\levelstartat0\levelspace0\levelfollow0\fi-431\li2880{\leveltext\'01\u8226 ;}{\levelnumbers;}\ls20}}
+
+\kerning0\cf0\ftnbj\fet2\ftnstart1\ftnnar\aftnnar\ftnstart1\aftnstart1\aenddoc\revprop3{\*\rdf}{\info\uc1}\deftab720\viewkind1\paperw12240\paperh15840\margl1440\margr1440\widowctrl
+\sectd\sbknone\colsx360\headery0\footery0\pgncont\ltrsect
+\pard\plain\ltrpar\ql\itap0{\shp{\*\shpinst\shpz0\shpbxmargin\shpbypara\shpwr2\shpwrk0\shpfblwtxt0\shpleft0\shptop14\shpbottom929\shpright1115\shplid993527462{\sp{\sn shapeType}{\sv 75}}{\sp{\sn pib}{\sv {\pict\jpegblip\picw170\pich140\picwgoal1115\picscalex32\pichgoal915\picscaley32
+\bliptag10014{\*\blipuid 0000000000000000000000000000271e}
+ffd8ffe000104a4649460001010100dc00dc0000ffdb00430002010101010102
+0101010202020202040302020202050404030406050606060506060607090806
+0709070606080b08090a0a0a0a0a06080b0c0b0a0c090a0a0affdb0043010202
+02020202050303050a0706070a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a
+0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0affc0
+001108008c00aa03012200021101031101ffc4001f0000010501010101010100
+000000000000000102030405060708090a0bffc400b510000201030302040305
+0504040000017d01020300041105122131410613516107227114328191a10823
+42b1c11552d1f02433627282090a161718191a25262728292a3435363738393a
+434445464748494a535455565758595a636465666768696a737475767778797a
+838485868788898a92939495969798999aa2a3a4a5a6a7a8a9aab2b3b4b5b6b7
+b8b9bac2c3c4c5c6c7c8c9cad2d3d4d5d6d7d8d9dae1e2e3e4e5e6e7e8e9eaf1
+f2f3f4f5f6f7f8f9faffc4001f01000301010101010101010100000000000001
+02030405060708090a0bffc400b5110002010204040304070504040001027700
+0102031104052131061241510761711322328108144291a1b1c109233352f015
+6272d10a162434e125f11718191a262728292a35363738393a43444546474849
+4a535455565758595a636465666768696a737475767778797a82838485868788
+898a92939495969798999aa2a3a4a5a6a7a8a9aab2b3b4b5b6b7b8b9bac2c3c4
+c5c6c7c8c9cad2d3d4d5d6d7d8d9dae2e3e4e5e6e7e8e9eaf2f3f4f5f6f7f8f9
+faffda000c03010002110311003f00fdfca28a2800a28a2800a28a2800a28a28
+00a28a2800a28a2800a0f4a28a00e1fe3ef89fe247837e136b5e25f853a66997
+7af5a5a1934fb7d67ccfb33b8ed279643018cf20823debf365bfe0e4cd5be00f
+8925f0c7edd1fb23bf85d2c5e77d435cf09f893edb6e6de3d812589268a3deee
+cd85843ef006e200ce3f55afac6df50b496cee610d1caa5594f70457c11fb707
+fc11ebc19f1fa3d4a48fc3b6baa59ea27fd2ace64e597d3b77ee0e7806b9b111
+c44adecda5dfd0da9ba3b545f71f52fec8ff00b6afecd7fb747c22b2f8e1fb2f
+fc51b1f13e83780091ad5f6cf65263261b884e1e094774700e39e841af57186e
+82bf1a7f677ff826b78abfe09bb0ea5ab7ec9bf117c51e07d56f6e4cb731dc32
+5dd9ca3b45244f1fce8bceddfbf696270d5eebf0cffe0ab1fb48fc24f12b693f
+b55782ed750d266bb91ffe120d1ac6531451ed0556310ab3b818724047988200
+8b0093c588cd2183a9cb5e2d2be92d1afcf4f99d14f032c4439a9493d355b3ff
+00827e9111b474a38619db5e45fb237ed8bf093f6c7f06de78c7e14eafe72e9b
+79f65d42d649a377898a2c8ad8463f23a302a5829ec40208af5df9b1c57a34aa
+53ad05383ba7d4e39c254e5cb25663a8a28ad490a28a2800a28a2800a28a2800
+a28a2800a28a2800a28a2800a28a338eb400d38ed55efafaceca192ef50ba8e1
+8635dd249349b5507ae7b54cdd322be3bff82b27c72f0cf86fc01a6fc2a83c42
+afa95e5f2ddde6930c877490a29d825c11b53790d83d4a2f6ebe6e699851caf0
+53c454e8babb5df447660307531f8a8d08757bf6f33ea8d77c2fe0ff001c693b
+6fec6d6f2de54ca4cb86c8ec430cd7e77feddefe02f81d16a974b12cd6f23343
+6f13212a27dac633c2b63040cf07b1ec08e93fe09bbfb5aebadf0cfc61f0afc4
+72cadfd8b0c77da44f24cacb14529656886338019770e4fdf20702be3cfdb33c
+75e27f8dbf10b54d2b4ebfd4bfe3e9b48b1fb0dbbc81669232b24ce10e4a44b2
+b91d0165232466bc3ad9f6171dc3cb1714bdfd2da3d7afdde87a74f2bad85cdb
+d837f0eb7db4ff00827de1ff00044af0045e1cf813aaf8a2d2df504b3d5b586b
+8d2fedca8aa2d6645b85589768911019480b213c00ca143f3f6e80319af997fe
+0979e04d4bc37fb3f59f89f52f1b5f6a926b505bbb5bc9b45b42d142b1068542
+ee5051146ddccaaaaaabc0e7e9ae070457ad91c651cae95efb75ec79d98cb9b1
+b37e63a8a28af60e10a28c8e99a2800a28cf6a09c0cd000c370c50060629be6a
+e339aaf7babe9da75bb5d6a17f1411a8f9a49a40aa3f135329462aed8ecdec58
+2c02f2d54353d7f48d16dbed7abea36f6b1e71e65cceb1ae7d32c4578e7c7ffd
+b77f637f873e00d6bfe161fc6af0ede451d8cab75a2e93ac453de5c0da7f751c
+513ef2e7a00307e95f9af27fc1597f6748be07785fe0c783ff0065ef126b5abe
+93e2c5d6ecf50bad3f10c6ab732ca8eed2ab49e6f962384a93ce3ef10315c753
+32c0d1d25522be68eba381c556f860fee3f5cb4df8c5f0b356f1bcdf0cf49f88
+9a1dcf88ad63f32ef41b5d56192ee05c6773c4adb94639c91d2ba48ee51e431a
+1e6bf19b52ff0082fdf8ae1fda19be2543f00bc39e0fb5fec95d226b0f126bd1
+2dcdd45e607f395c326082bf2a952319ea791d0695ff000593fda4a7d2643f0d
+3e1442b71785a49b56d2fc137b786e58938633c66556001c64af0074c579588e
+26cba8c928de7fe157fc76fc4efa590e3ea2bdadea7ebeb3b019acfd77c53e1f
+f0d58c9aa78935db3d3ed635cc9737b7291469f5662057e48d8fc58ff82c1fed
+0f6dfdab652f8f24d3273fbb8f4af0dc362a57dd85e5bb63eb1fd456c780ff00
+e09adff0502f1beb3ff0917c46b5324721caff00c245e22d3da451eeaf6374df
+f9107d6b91f12622affbbe1e52febb25fa97fd8b4e9ff1ab457f5e6d1fa05e2e
+fdbe7f646f075c2d85dfc6dd2350ba90ed8ed7c3ecda94acde9b6d55ce7f0af3
+df8b5ff053af0d7c3cd1e4d774ff00807e346d3d172dadf8aad63f0f69a0762d
+717c50283ea40af37f867fb027edd9e19d5a1b6baf8e9e14b2d099489b4f55bc
+6915482368fb39b70df5ca8ff64d7916a3ff0004d5f859f097f6cfd1b42f895f
+083c17ab697e359247fedeb3f0cc0f71637183897ccbdf39b696521943120b29
+1d4d73e2334cf953529439149d93b24d5f6bb6da5f71b51c0e532938a9f3349b
+ddb4eddac93fc4f2cfdacffe0e3bd5f44d4a7f08782fe22f8074b5913e51e09d
+6a2f11dd2e7f84dcda34d086f60808f515f2ad8fed3fe00fda17c13e29f897f1
+513e3d5f78d034a7c27a0f837e1edccdfda536cca4b7379287f90b1e57084283
+f31e00fdc0d37fe09cff0008f47b55b7d07c4fae5846a30b1d8c36512afb002d
+8015e5ff00b457ec5de3ef869e19d43c7fe0ff0019c3ae697a75b3dc5e59ea10
+2c371042832efe606f2df00127840002466bc5cd32bcda5175b1142556dad9d4
+4d7c924bf03d4cbf1b96292a54aa285fb46d7f9b6ff13f29ff00e09fff00b44f
+ed43e08f104907c6ef861a9787a6d5b45bc8dac754b778aeee2141e642e63203
+6ecab28c804fe35e81ab5b586b1e20d1cebbe2382c750d1ad6e3599646d2d6e4
+5ddebb18e18b6bc8abb95d8ba7cc0b1655079aeffc7fa65a7897c436fe36d035
+216d7f0c26d96e2497746a1e58c0051be50a4fcac4738627b66b8bf82d6fac78
+8be27781535487498efbc4de3ffb7cf6eb6e25b99ade048fec710cc8a5a20e01
+760085d8c777181f2f86c6cb11858e1e10e44a6df2abdb5b77d4f7319858d1c4
+3aae5cdeead5effe47ecefec9bf0f25f85ff00b3df84fc1972646b8b6d2636bc
+925cef92671be476c93c96249e7bd7a39043556d215e3d36dd64455610a8611f
+dd1c74fa55a19dd9afdcb0f4fd9508c3b24bf03f2fa93e7a929776c7514515b1
+995ee651126f1db9af9b93fe0a93fb37e95a8df69bf123fb5bc2ada6ced1dcb6
+ad1c0d85d81d24db14ad26d6c851f260310ad8dcb9fa55e38a45d8dd08c578cf
+c07fd82bf667fd9d3c43ab7897e1b7c3db5b7bbd5f5492f598dbc4a96ece492b
+1a22aa8059998920b1662c4e4e6b3a9cfccb97e66d4fd959f3dfc8e57c51ff00
+0531f8476da7dddcfc39f865f107c6335bdab4b0c7e1df07dccd1cd807037aa9
+d9cae3247d01af1df117fc1537f6a6f883a9dbfc2af819fb0f6b1a778cb56b5f
+3b4d87c53aedb44d0a0556677b7609200a1865880a383f30c67eec36d0c1098a
+3455551c05007e15f1efec651699a97fc1423e3ff88b56b763ad437567a67993
+e4b247122cdb467185315c5a30c75c1ea41af0f36faf3ad469d2a9caa6ed2d16
+d6bdd3dd3e88efc0bc2fb39ce54f99c55d5dbee96dd5753c8b57fd9cbfe0bb5f
+1be6925f13fc6ef0ef832d66fb96ade2276d8a7b14b0b58b233ff4d338c56658
+7fc10e3f6abf1edc0bdf8edfb745ac9230c4dfd83e1696463cf52d7b732873ee
+57f415fa744e064d783fed07ff000525fd8dff00661f12b7823e2efc69b1b3d6
+914336916904b757099190196256d848e4072a48e466b1ad91e554173626726b
+bca5d4de9e6d8e94ad878463fe18ff00c39f31f86bfe0de9fd9fbc3ba75d6a3e
+34f8e1f103c49769048f0c715e43a6465f69c67ec888c4671debf24bc5bf0f3c
+5d6bf0c7e3149e21f137c3fd17c49e01f10451e9b7173326acd69662f5627171
+1bade488e5377de5dfc13b4019afda7f12ff00c171ff00670475d2fc03f087e2
+47892eee3e5b58ad7c2e608e627a61e571d7e95f933e2df09f82ef3f699f8f3e
+21f887f0b2ca2d23c6f0bdfc9a678835036775a55e491b6e4b76b88544b3a6f0
+c55412778c7a9f9dcdb1190e0e9a9e1eda6e92bdeed77d1f53dacbff00b62bc9
+c6b5f5b5b54bf2b163e14f8cf47f0afed4bfb3e7887c3dfb40a4fa7eb3a65a5a
+5f784747d15d34fd5b5057f9e49d018d537891482f0e7083e518c57f407e24b3
+f0ef87ac2d5edaeadf41d34067babfb4b78a3f2d76e47ccca5501f523d862bf0
+a353f849e1ad1fe1dfc061e1c915350f04f88aeb518f4db5596eae4d9c8a9e4e
+e99624cc87675f917239c0af487d33c5ff0012f558e3f1f5ff00c72f1f47195d
+b0de78a2d74148df6e1970ef3348a0f0bfc58ee6b8b2fe25cbf07525c894b992
+ecad6ef65bbbf9b34c76538cc528f336acdf777fbdd8fd29f1d7fc14f7f661f8
+4de1dba9757d73c43af5f58c7279169a2f84af5e5bedb9c05630ac459b18187c
+1ea3ad79e7c0ff00f82d1781be267862cfc47f13ff00666f889f0ee3b8be6864
+97c51a7c71c6b1f3b655c3f98c08c70635c13df19af92ed7f658f89cf609ad78
+73f628bab8b0b6915d535dd5f5bd62e1f9f4b302393af2bb48c726bdebe1efec
+41fb59d9b36afe10f02785fc32d7ecb24d6b75a2db4d0c3f2f4884ee6583e8a0
+735eb7facd9ad692787c3b6bc937f3ba5fe470ff0062e069e956aa4fcda5fa9f
+677c0ffdaafe05fed0b35ddafc2ff1ed9ea373648af7562b22f9d1237462a093
+8cf1ec783cd7cfff00f0503f8e5f0ffc31fb41fc33f096afae5b5b47a5cf757f
+e20d526931069716603189580215982b10080768ddd39aafa3ff00c1327c63e2
+1d5e2f1df8cbe2ca787f5e65f2b51bdf0f42f2cb7d00ff0096523c8c06cff636
+95af2bfda3f41ff825c7fc13d7c7f67e31f8a5f1a2fd75eb8012ff00c3f26b51
+c3697d3160525d41e184bc510f946dcec5519d98dc4fad079c6698354abd250d
+536dbe97edba7ea7038e5f82c439d2a8e56e8975f5edf23efdf845e21bbf13fc
+37d1fc4ba9c926fbfb559c79d2066dadcaf2383c631ed4df8c1e2983c2be00d4
+3556dbfea1954fae457e2e7c72ff0082d5fedd7fb467c7a9be0afecf5e026f08
+e8fa4ea8da6dc3697aa37fa3483fd55c47751616e00251847868e453b4a1dc08
+faf351bbf883fb3c7ecb926a1f1bbe2ff89b56d53c40d25fde5b788e491ffb3d
+1dd980daead2a9556c107eeaaa803824fd2ce51a716e5b25b9e4469ca525ca7c
+7ff1defb5cd4bc5d71e0cf845f09ecee3c3dab6b874dd6351d27c56cd3dac722
+b2bc2d65240cab8459dd424a41c27cabb707b8fd92bc1edad7c7b92cbc3df0e6
+dadae349d09b4dd1af357ba952f924388ca427e44923df27dc0362ef2dfec561
+f8a92ebc27e14d53c65fdb3a6cd73a4d8dd6a3a5de798635bfbc218dbdbef2db
+b2ce92ec5e38ba098e707d23fe0953f1c34ef00f831b59f8f5e2c9e7b3d47c6f
+6f17877ec3ad41a95b69a8f214db2bc52ffa383298f7447705601f6297247e3b
+42a50c6674ea46d18a96cadaebdaff00a1f7f5557a396da5794ad6bebd8fd61d
+0acd74ed22d74f44dab0dba205f4c01c55d2de95574ed42cb53b08752d36ea39
+edee2359219a16055d48e0823a83569589afd8a3651563f3b7ab63a8a28ad041
+8f6a28a0f4a008d80652a475af9c7f6adfd8efe2178cbc7b6dfb447ecb5f11a0
+f077c44b586282f24bcb11358eb3046c4a25c2641dea1e455901042c8eadb918
+a9fa389da3ae28203750ad5cf8ac2d2c5d2709dfd53b34fba7d0da8d69d0a8a5
+1fc767e4cf8cc78dbfe0b63a8dc8f0f7fc2a1f839a622aed7d73fb52ea7dff00
+ed087701ef8dc2bc3fc67ff04baff8282788fc5775e316f88fe03b8d5b5bbe6b
+dd5355b9d061b8f2a639ff00569701fca001da0c6cac405c93b457e9e6d5ec8b
+f9501074da2bc3c470e51c5c52ab5a72b6d76b4f35a6fe67a14b37a987bfb3a7
+157df47fe67e757873fe08fdfb54f8c34b6d27e3afedd5ad35a15c0b3f0dabc7
+0e3fba6294b2fe5c57907c4dff00827ef847f672f136abf0e7c21af69faa6b93
+34115bea5e2584450ca93b659caa13b641b4e1d0ab6477e95fae6c995c0c579f
+f89ff65df805e34f885ff0b5bc5df0a749d4bc41e5451ff695f40656db192506
+d2769c127b679af3330e09c062a8c6149b8b4f56db6daeab7b7e07760f893158
+7ace7349ab59249257efb5f4f53f303e1ce9ff0006fc0175a2f89fc27e31d25b
+cf6856ea1ddf68b9b89a5464690ca09c02c40c11c9039cd7e9cfecd96ba18f82
+ba0eab6da4416de6d8ee91bec62263b598658607a679cf15d4f857e1cfc3df00
+59c963e0ef04e93a3c0edba48b4ed3a28118fa9d8a3f5af99ffe0a77fb62e99f
+053e03ea567e0fd7f476b8b897ecf79757da5b6a512e082d6c96f1b833ce463f
+763732afcdb1ba56d91f0be13876f52327276b5acbbee8cf31ceab66d154da51
+57bdeefb753ea8b8d6f48b0d25f5bbabdb78ace284cb25d348022a0192c4f4c6
+335f26fed6ff00f0572f835f047c3baeafc2f9f4ff00116a9a2e8ada85e5d5f6
+af1e9fa7db42788e55966c7dab27a24218f1ce06587e79de78fbe367ed73abff
+00c291b6fdb0757f18787ede1fed9d7e187e1adcdc69fa185da5b44bb8e748be
+ccee98f219240f9c615319ae4748fd857f682fdadfe35f8cbf676baf82bab6ad
+f0f743d36dae7c0563e38bfd42ce1d1269061a0b9f227dda83265986f942a9db
+823907e95549d44b955bf33c9f6508bd5dff0023d7fc11ff0005adfda3ff006e
+8f16db43f0c7e13c6fe10f0adade43e36d4f47f155a5a586a738b4691628a49e
+41248e782a90233c67077480f1f36fecd5ff00040dfdae3fe0a1bf10a7f8d7fb
+546a37da0f862ff506b8b1d0f50bf791a2819f215e465dd236dc7f0f3ed5fa8d
+ff0004e7ff00821a7ecc3fb127c3a3a5dc6953eadab6a4c971ac4725e37d91a7
+56dcac2304e4a9e03124803ad7dc567636b616b1d9d95ba451c6a163455e00f4
+ae8a74f92edbb99cea2e5b44f16fd993f613fd9f7f655f0d5ac1e13f0569f36a
+56b6b1c726af71669e6108a00dbc7c8001c77f7af8effe0a2fe3ad53e257c6dd
+1fe1f681a8da476eda9f9b7de64cca4471e195405653867003678c1c60e4e3ef
+0fda4be285a7c31f8717ba9cd2ed92485963c360e3bd7e1dfc63f8bebe27f8c3
+aa7c6cf16f83ac6de3b8b3ba8fc1fab6a51caf15dddc1bc0cfee71229ca91f38
+f2fcbdd82073f3dc51997f67e59251f8a5a47e7fe47a991e0a58cc6abecb5674
+dfb537c3db7f15ea16de1ff863e268ee7564d46182dbc3f22cb3208444544ce7
+704d8e046a013f7e3054120e3da7f644fd84cebdf0bb4fd2fe26e936da6bab5f
+c3e2836f6e6449e190796983bc10c50cc36b1953254950473f2eea1f11fc130f
+8c741f17e83a7dfdee8fa97876cf58d4135b95f3757050c92a42eb11f220958a
+6d0553865240e48fd0f1fb487853c33fb3bea1a3786ae849abbead2dbea16792
+cd6f738551029c0ddd886e843035f9b70b6170d5b192962f4e4bbbded7495ddf
+4e9ea7da67d52bd0c2c61435e6b2dafabd34b33ea4f84ffb497c18b6f195a7c0
+1b2d4174fbd8ecd3fb0d6f2ee33fda28132c23c1c87521c142064292b90085f6
+547de3762bf9f0fdb0bf6a3d67e107807fe123d47c6963e1ff00135c6a0b368f
+35f65e6f3632c623e6a157830fb594a1c820b7de271fa89ff0478ff8295d8fed
+d3f0597c3de3ed4a05f883e1c8557588d5d31a9dbe76adec5b7e53c8d9205c85
+901e8196bf43c938823984e51947962dda9beeba5fb33e2f32cafeab14e32bb4
+973793fd7ccfb428a4560dd29770f5afab3c50a28a2800c67a8a28a2800000e8
+28a18e064d72fadfc5bf86be1abbbdb5f1078ff46b19b4db5fb4ea11ddea11c6
+6de1e4ef70cc36ae01f98f1c52bf70b1d39231d6b8cf1a7c524d11248fc35a72
+6af2c70b3b0b7bd891632a7077b48caab8ef82587f771935f07fed5fff000709
+7ecd9a4788356f819fb25dc47f103c651daca90fd92578ada598231da92eddbb
+46d3ba566445e396cf1f887f143fe0ab3fb7dfed73f14aff00e1fe89e05d46c6
+e352d516db52d27c3f74d1347659f9ac619fca696dbcc620c9242c3ccc2e578e
+7294a52972c4da34ed1bc8fd94ff008284ff00c14efc61e25f0e5e7c08fd997e
+3c5b1f1a5f6a11bdac3e19d2d2ea686de1f9afad95cdedbdb5ccf1a91988dc42
+4a9279e01f8b743fd9bbc57fb5978b5bc53fb4bd8db7887c3f752dadbc9650d9
+dcdbda5d25b90ca6558aea58e6b8666f9e3b15da836ee99d771afac3fe09c1ff
+00049bd63e2b7c1a93e2afc72f045e7c36d7356f19daea9ff083e8fb0e9cf1da
+2a88ae6ed5d337933a160cee077c2ae4e7f433e107ec59f067e1178920f1a699
+a75d5eeb10e9e2cd6f2f2e99a38e10721121cf9680760aa028e06071592a7525
+abff008254a54e3b1f167ec7dfb24fed1b7df11745f0de93e07d07c1ff0009f4
+9ba65baf0e47a6c2637b75cec16d120f26d9c9c13222b4deb3be78fd02f849f0
+43e18fc10d1e6f0efc2ef085be8b633dd35c49696acde5991bef38049da58f2d
+8c6e3c9c9e6bb18e358d422af0bd29d5bc69c63a994aa4a4006380291982a926
+97359be2cd4bfb2bc39797f9e63858afe55a107c47ff000552f8af7d77a73780
+fc328b7775221861b30c7f7ee47fabfab1c28f722bf337e397c52f87fe00d5bc
+07e0bbaf0547a869da7f8b20b7bcf07eada8b379a44a032128251123ee84baa2
+fcde4b281f39c7b07fc142bc43a7ea5fb4c69be37d335777f11453ad92b4dae4
+b690d9dba192e3cf66ddb23c4813e6c024aa024019af16f863a77c1af07db7c5
+0f88be3db4f10df78e3fe124d267d2bc2f6ba5cb7503c36d2c9e5dcddcac3605
+9666908443902157e00cd7e5fc5553eb79a422dda34d37d357f7ff0099f6d915
+3f61847657736975d9f5d09be037c35b0b5fda3ac3c1fa55c49a969de12bc9af
+a468da10cba6da8cc76fe6472073c4288aac8063392739af45f86965f127c31e
+1cd73e247c50f1ddbdd5bc7ad5d5dac71c676c24c60cb9e412c032c61ba60498
+e4907c3be057c56d72fbc55e24f175f45731ea9ae5d18b4efecd64b78ec8c8ff
+003c402b3068cec0a11b2006071c927d63f6a9f1c58697fb3c4df0f35dd5a4d3
+fcbb40972d05af9ccec7396db10cb46eeccdbf83c904ae315f1f2c2ca54e304d
+b7396ad6cd75565bdf43e8b1589f6751ed68a4acfa3efd52b19dfb1c7ecc3f06
+7f68c93c79ff00054aff008282e941be10f8060924f0ee9da946cd05df94fd44
+7d262ef840849ddb9460f9831ee7ff00049dfd9b3e267c44f8cbe24fdb5fc13f
+08ec7e11f87fc4b6af17c29f09e9fa6ed9b4eb5665617d347c2422508bba2500
+48ac436461aa2f0bd80ff828fcbfb377ec0df0dfe197fc235f0af41f09e9fe3e
+f8a76b67279967a836e64b1b3f30806552d14923020a9042f5406bf60bc2fe16
+d0fc25a35be85a0d8476f6f6f1ac71ac6a070062bf48ca72b8e22dab518a4bb5
+bc92fccf83c662e70936f56dff004c6f82753d675af0bd86a7e20d29ac6fe5b6
+537968493e54b8c3a827048c83824024632074ad8d8282a1475a309eb5f6aa2e
+314b7b773c397bcee3a8a82f6616d0b4edf755496afe7ebe2fff00c1dbbf18fe
+1ffedafae786346d0343bef87ba3f88a5d3db4f86c4b4a628a431b3876dad2b6
+41ced7419e5438015ac0fe82d8ec5e95ccfc4bf8b9f0d7e0ef85ee3c67f157c7
+7a578774ab652d2df6b17c904630338cb1193ec324f6afcc6ff8299ffc1723f6
+83f84bfb297827f68bfd947c25a143e13f1f69267b3f1a5cb1bef2241c3c71a9
+023dc0838dc18f0432ab2ba2fe01fed4dff053bfda37f6a3f15cde23f8aff14f
+5ff12dd3337953eab7ace9173f7638b21225f65007b5572f56528f73fa10fdb4
+ff00e0e85fd90fe075e37873e07e8775e3468e6d97dab4939b3b5f2f3f318320
+bc8d8e84aaae71c915f91fff00056dfda3ff0068dbf9b4bf1d7c20f8ff007ff1
+03e1efc76d2a2d4b43d61354b937d60609584ba4dca2ca235789df043272bca1
+009cfc61f03bf667fda0ff006bef1b5af873c3ba0ea17925f4c0410410349249
+9f41dbea702bfa2bff0082557fc108bc2df0d3f65af0dfc3efda7bc1fa75e5d6
+97e2e97c496f0b81215924b75844521c7ce17e66db9da09efd2b39463cc9d8db
+48c34d3f367e5f7fc1177fe0937fb727c57f8cba2fc759ec469da0dbcc0dc7f6
+d5bb182ea33f7955460b363a38c007926bfa0df857ff0004def811e14f89dab7
+c78d5bc1d61ff0976bf3acfa86a16b6eaac8c11502a9e768c28ce3049c924e6b
+dd3c13f0f7c2bf0ff498343f0b68f0db5bc31aa2245185c28e83030001e8062b
+a0aab46f731e676b15b4ed3ed74bb48ec6ce20b1c602aad59a28a090a0f4e945
+07a5003480074af3bfda6bc79a6f813e156a1a85f4c14bc2556bbfbbba86ced9
+eeae9f6c71ae59bd057e6aff00c1543fe0a17f0cbfe135d3bf66bd375cb98758
+d52326d49b47f208dd862d2636023a95ce71ce2b1ad5a9e1e9b9cdd97734a74e
+75a6a315767e797edc5fb5e7c14d03e246a1a3f8aa74bebad5837916315bcb88
+e607113cad958ca93c65d8edfee91f356d7c70f8bb27807c2fa77ed75fb34ea3
+a6e8fa4f8ff408747f15d8eaef936b7f1c652616f94264b72369590e0e77145c
+1527a9f1d7ecabfb087ed4de08d07c290ea9afbfed09a669b7ba6787341d3f7c
+963e2298248cb704b2b46823277170f1ee600107ef0f91be356a3f1afc6b7da4
+fc3ad17c3f2ea1268771f6598369e655d272a22647645cabaed185dbc1239e09
+afc9b1d5e18caaaa524db9b77d6c95bb1fa065387f6778cfddf67f8dfb9ed5fb
+19e93e1ed66f7c3d6bafdb5d5e2ff695cdfde7d98f9ab72cb1868a20c9f77732
+43cb85c2bee3ee7ed29a2fc5efda53c4bacfc2ff00825e1dbed52e349d523b5d
+4b4f9acfcbb59099a28e36966764091f9b22a02082cc70a59b1b747e0a78e67f
+00f81a6d5a6d1bec97d7134f78648d999e2084c71c6e1beeabc4aa769c60fcc4
+7435b9fb00c7e2afda23f6ab9f51b1f1543ab68361acb5b3d958cd2c2f7525c3
+feec3a03b8c44b4d2a9232ad68bf3120e383094ebcb10ea45af76da5f6fceedf
+c8acc254a52e56b7bebfd7fc13f5d7fe0991fb3de97f0a7c0177e30dd1cb71a8
+ac16366ca80186ced6158638b818fe16738fe377afa993af4ae77e18782ed7e1
+e780f47f05d949e647a6d8470798ca0172abcb1c7a9ae8870dc9afd832dc3fd5
+f07083ded77eacf81c554f6b5a4d6dd3d07514515dc73915dc5e744d191f7948
+afe1f7fe0a61fb3bf89bf650fdbfbe2e7c04f1469cd6b3683e3abffb1a96cf99
+6334a67b4947b496f2c3263a8df83c835fdc329256bf1d3fe0e87ff822278b7f
+6daf075afedbdfb2b7830ea5f12bc21a7fd97c4fe1db08c2cfe23d2518b07897
+1fbdbab7dcc42fdf9222c8bb99228c9b6a52ec7e5eff00c1203e325cfed53fb3
+4fc42ff824efc4f964bed33c451bf88bc03231264d2b578137ca623fc2924285
+dd470445201ccac6abfec2ff00f041cf8dff00b41fc72bbf05ff00604d0d8695
+aa35bdf6ada843fba836b6085007cee00eddfd0735e3ff00f0454f097c59d17f
+e0a61f0c3fe11cf0fea56b7b67e3ed36d350864b574708f771c77113ab0047ee
+8ca1d4f41bb35fd857c35f84fe0bf86905d7fc235a3436f35edd49717522c601
+691d8b37e1926ab4dd85ff0003e7cfd807fe093dfb3c7ec2be0eb7b4f0af86e1
+bad64c2bf6ed5ae230d34addf279c2ff00b2383df35f55c71244155176aa8015
+474152515248514514005145140051451401c9fc68bb96c3e1aead3c04effb2b
+636d7f3b7fb62fc53bef0d7edcf36b5afc0b76d6ba34f069b1de10f1412c8d82
+e63daf83b5b01f0b8fef0c62bfa40f1068d67e20d266d1ef93745347b5857e6d
+ff00c14a7fe09b7f0facb46bff008a3a4787ad9afe48db3a85bc5e5dc1007dd2
+eb86c0fae2bcdcd7032cc306e84656b9dd97e2a382c4aaad5fc8f917fe095be3
+6f83baf7ed49a96ab7fe208f47f1968ff0df589fc337175a92c704f74cb8cee6
+48d4488e0f07f848eb835cff00c25bdf8211fc11d43c709f112d93c75f6a917c
+4d6da85f862196e1e42e8a0ee3bb767ccf9fa63b6daf9ebe33dd685e1bf1b5a6
+af9d30693ab5f436fa859dac4b14d6124ac6268cb1c10aecad2039232413c0e3
+37f67cf85bf0fb45fd9abe23fc75f88b7da2dc5d43e307d3b45b1d4e4f2ef9d1
+624791ed7cb94a92ab20c2e4ab156dc4753f9cd3a7532d8dbd9df96f14aeeeee
+f569f46bef3eb1d68e2a4dca6d7359b692d2dd1a7ba67d0be0cf829e20f8cdf0
+f34df10f807c53a6c316b5af2c7791dc0fb2b2c6d2b89191db3193b5f037a05e
+1738c71f747ec17fb137c36fd9affe0a2b73f087e14ea3a96b167e0ff0541abf
+8cb55d5a68bce9b59be626205618d10aa5baa14e4e3cc6e06727f3d7c35f143c
+3b61fb1c58ebdf0fb568acb45fdee9ab7da8cab0de6a7a8489f3476f64acf34d
+312dbb2a0c60900c8a0647ec2ffc122fe02fc4ff0002fc18d47e3a7c7db768fc
+75f12af22d53548e6ff5d6b6a90a456b6efee90a2afd7358f09e07115b1b355a
+0eca57bbdd59decffe09cf9d6379a8c5a92dada6cff4d0faee2fbb4ea000a302
+8afd78f8d0a28a2800a6cb1991700d3a8a00e074dfd993f677d27e2c49f1d74b
+f819e12b7f1a4a8cb2f8aadfc3b6c9a8386e1b37013cc248e0b139238ce38aef
+a8a2800a28a2800a28a2800a28a2800a28a2800ae57e2dfc32d27e2b782aefc2
+7ab20db7119084afdd38aeaa83d2803f113f6e8ff82247c4e83c457de28f0169
+df69b59a42f2450b347e62e73b772f6f620e39af0d83fe0967e34f8c5f0fedfe
+08dc7c1df12787fc9badecba6f8a1218ae599b2eed2cd657128dc704aafcbc0e
+c00afe89e58e39d4c5346aca7ef2b2f5aa56fa06856b73f68b5d1ad63933feb1
+2dd437e78af3f1396e1711522e4b54ef74eda9d54b175a9c6c9e9d9ea7e787fc
+1313fe0863f08ff66abad2fe2a7c59f0c59ea1ade94bff00127b3bcba935016c
+7aef2f3aa00d9e7114510cf241c035fa370c4b128488600030abc014ff00e1e9
+4019e0d7461f07430b17ecd6fbbddbf998d4a952aeb27b6cba120ce39a28a2ba
+0cc28a28a00fffd9}}}{\sp{\sn dxTextLeft}{\sv 27305}}{\sp{\sn dxTextRight}{\sv 27305}}{\sp{\sn dxTextTop}{\sv 27305}}{\sp{\sn dxTextBottom}{\sv 27305}}{\abiframeprops ypos:0.009722in; frame-width:0.774306in; wrap-mode:wrapped-both; frame-height:0.635417in; frame-type:image}}}
+\pard\plain\ltrpar\ql\itap0{\f0\fs40\b\lang1033{\*\listtag0}\abinodiroverride\ltrch BREJ Sound, Inc.}{\f0\fs40\b\lang0{\*\listtag0} }{\f0\fs40\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\li691\itap0{\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Professional Instrument Repair}{\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\li691\itap0{\f0\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch Brian Batinchok, Jasmine Savwoir, }{\f0\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\li691\itap0{\f0\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch             Rodolfo Magasrevy, Edward Sims}{\f0\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\li691\itap0{\f0\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\itap0{\f0\fs28\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\itap0{\f0\fs22\lang1033{\*\listtag0}\par}
+{\listtext\pard\fi-360\li720 1.	}\pard\plain{\ltrpar\ql\fi-360\li720\s27{\*\abilist\abilistid100\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont NULL}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle None}}{\*\pn\pnql\pnstart1\pnlvlbody\pndec{\pntxtb }{\pntxta .}}\fn-360\li720\ls1\ilvl0\itap0{\s27\f0\fs28\b\lang1025{\*\listtag0}\abinodiroverride\ltrch The project name, project team name, and the names of the members of your project team}{\s27\f0\fs22\b\lang1025{\*\listtag0}\par}
+}{\listtext\pard\fi-431\li1440\bullet 	}\pard\plain{\ltrpar\ql\fi-431\li1440\s27{\*\abilist\abilistid1293\abilistparentid0\abilistlevel1\abistartat0{\abifieldfont Arial}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls4\ilvl0\sl240\slmult1\itap0{\s27\f0\fs22\lang1025{\*\listtag0}\abinodiroverride\ltrch LBMA Streamlining}{\s27\f0\fs22\lang1025{\*\listtag1294}\par}
+}{\listtext\pard\fi-430\li1440\bullet 	}\pard\plain{\ltrpar\ql\fi-430\li1440\s27{\*\abilist\abilistid1291\abilistparentid0\abilistlevel1\abistartat0{\abifieldfont Arial}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls2\ilvl0\sl240\slmult1\itap0{\s27\f0\fs22\lang1025{\*\listtag0}\abinodiroverride\ltrch BREJ Sound, Inc.}{\s27\f0\fs22\lang1025{\*\listtag1236}\par}
+}{\listtext\pard\fi-430\li1440\bullet 	}\pard\plain{\ltrpar\ql\fi-430\li1440\s27{\*\abilist\abilistid1292\abilistparentid0\abilistlevel1\abistartat0{\abifieldfont Arial}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls3\ilvl0\sl240\slmult1\itap0{\s27\f0\fs22\lang1025{\*\listtag0}\abinodiroverride\ltrch Brian Batinchok, \uc0\u-257 Jasmine Savwoir, \uc0\u-257 Rodolfo Magasrevy, Edward Sims}{\s27\f0\fs22\lang1025{\*\listtag1237}\par}
+}{\listtext\pard\fi-360\li720 2.	}\pard\plain{\ltrpar\ql\fi-360\li720\s27{\*\abilist\abilistid100\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont NULL}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle None}}{\*\pn\pnql\pnstart1\pnlvlbody\pndec{\pntxtb }{\pntxta .}}\fn-360\li720\ls1\ilvl0\itap0{\s27\f0\fs28\lang1025{\*\listtag0}\abinodiroverride\ltrch \uc0\u-257 }{\s27\f0\fs28\b\lang1025{\*\listtag0}A brief project description}{\s27\f0\fs28\lang1025{\*\listtag0} }{\s27\f0\fs28\b\lang1025{\*\listtag1104}\par}
+}{\listtext\pard\fi-431\li1440\bullet 	}\pard\plain{\ltrpar\ql\fi-431\li1440\s27{\*\abilist\abilistid1296\abilistparentid0\abilistlevel1\abistartat0{\abifieldfont Arial}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls5\ilvl0\itap0{\s27\f0\fs22\lang1025{\*\listtag0}\abinodiroverride\ltrch \uc0\u-257 }{\s27\f0\fs22\lang1025{\*\listtag0}BREJ Sound, Inc. is involved with instrument repair of the Lake Baldwin area. As part of the repair process, an inventory of instruments is maintained for record-keeping purposes. BREJ Sound, Inc. wants to streamline this process to lower operating costs, increase its service efficiency, and create higher customer satisfaction by reducing transaction times. BREJ Sound, Inc. wants to incorporate a server to process new orders and log repairs. In addition, BREJ Sound Inc, also wants to add three workstations with server access to document repairs being done.}{\s27\f0\fs28\lang1025{\*\listtag1297}\par}
+}{\listtext\pard\fi-360\li720 3.	}\pard\plain{\ltrpar\ql\fi-360\li720\s27{\*\abilist\abilistid100\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont NULL}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle None}}{\*\pn\pnql\pnstart1\pnlvlbody\pndec{\pntxtb }{\pntxta .}}\fn-360\li720\ls1\ilvl0\itap0{\s27\f0\fs28\lang1025{\*\listtag0}\abinodiroverride\ltrch \uc0\u-257 }{\s27\f0\fs28\b\lang1025{\*\listtag0}The project's MOV}{\s27\f0\fs22\lang1025{\*\listtag0}\uc0\u-257 }{\s27\f0\fs28\lang1025{\*\listtag1282}\par}
+}{\listtext\pard\fi-431\li720\bullet 	}\pard\plain{\ltrpar\ql\fi-431\li720\s31{\*\abilist\abilistid1\abilistparentid0\abilistlevel1\abistartat0{\abifieldfont NULL}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls6\ilvl0\itap0{\s31\f0\fs22\b\lang1025{\*\listtag0}\abinodiroverride\ltrch Desired Area of Impact (Rank these: Strategic, Customer, Financial, Operational, Social)}{\s31\f0\fs22\lang1025{\*\listtag0}\par}
+}{\listtext\pard\fi-431\li720 1	}\pard\plain{\ltrpar\ql\fi-431\li720\s31{\*\abilist\abilistid2\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont NULL}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnlvlbody\pndec{\pntxtb }{\pntxta }}\fn-431\li720\ls16\ilvl0\itap0{\s31\f0\fs22\lang1025{\*\listtag0}\abinodiroverride\ltrch Operational}{\s31\f0\fs22\lang1025{\*\listtag0}\par}
+}{\listtext\pard\fi-431\li720 2	}\pard\plain{\ltrpar\ql\fi-431\li720\s31{\*\abilist\abilistid2\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont NULL}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnlvlbody\pndec{\pntxtb }{\pntxta }}\fn-431\li720\ls16\ilvl0\itap0{\s31\f0\fs22\lang1025{\*\listtag0}\abinodiroverride\ltrch Customer }{\s31\f0\fs22\lang1025{\*\listtag0}\par}
+}{\listtext\pard\fi-431\li720 3	}\pard\plain{\ltrpar\ql\fi-431\li720\s31{\*\abilist\abilistid2\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont NULL}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnlvlbody\pndec{\pntxtb }{\pntxta }}\fn-431\li720\ls16\ilvl0\itap0{\s31\f0\fs22\lang1025{\*\listtag0}\abinodiroverride\ltrch Financial }{\s31\f0\fs22\lang1025{\*\listtag0}\par}
+}{\listtext\pard\fi-431\li720 4	}\pard\plain{\ltrpar\ql\fi-431\li720\s31{\*\abilist\abilistid2\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont NULL}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnlvlbody\pndec{\pntxtb }{\pntxta }}\fn-431\li720\ls16\ilvl0\itap0{\s31\f0\fs22\lang1025{\*\listtag0}\abinodiroverride\ltrch Strategic }{\s31\f0\fs22\lang1025{\*\listtag0}\par}
+}{\listtext\pard\fi-431\li720 5	}\pard\plain{\ltrpar\ql\fi-431\li720\s31{\*\abilist\abilistid2\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont NULL}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnlvlbody\pndec{\pntxtb }{\pntxta }}\fn-431\li720\ls16\ilvl0\itap0{\s31\f0\fs22\lang1025{\*\listtag0}\abinodiroverride\ltrch Social }{\s31\f0\fs22\lang1025{\*\listtag0}\par}
+}{\listtext\pard\fi-431\li720\bullet 	}\pard\plain{\ltrpar\ql\fi-431\li720\s31{\*\abilist\abilistid3\abilistparentid0\abilistlevel1\abistartat0{\abifieldfont NULL}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls7\ilvl0\itap0{\s31\f0\fs22\b\lang1025{\*\listtag0}\abinodiroverride\ltrch Desired Value: Better, Faster, or Cheaper?}{\s31\f0\fs22\b\lang1025{\*\listtag0}\par}
+}{\listtext\pard\fi-431\li720\bullet 	}\pard\plain{\ltrpar\ql\fi-431\li720\s31{\*\abilist\abilistid3\abilistparentid0\abilistlevel1\abistartat0{\abifieldfont NULL}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls7\ilvl0\sl331\slmult1\itap0{\s31\f0\fs22\lang1025{\*\listtag0}\abinodiroverride\ltrch \~\~\~ }{\s31\f0\fs22\lang1025{\*\listtag0}BREJ Sound Inc. wants to both lower the cost of instrument repair in the Lake Baldwin area and also make the process of repair much faster so customers can get back to playing music as soon as possible.}{\s31\f0\fs22\b\lang1025{\*\listtag0} }{\s31\f0\fs22\lang1025{\*\listtag1304}\par}
+}{\listtext\pard\fi-431\li720\bullet 	}\pard\plain{\ltrpar\ql\fi-431\li720\s31{\*\abilist\abilistid4\abilistparentid0\abilistlevel1\abistartat0{\abifieldfont NULL}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls8\ilvl0\sl331\slmult1\itap0{\s31\f0\fs22\b\lang1025{\*\listtag0}\abinodiroverride\ltrch Appropriate Metric: Expectation for shareholders on a completed project}{\s31\f0\fs29\b\lang1025{\*\listtag0}\par}
+}{\listtext\pard\fi-431\li720\bullet 	}\pard\plain{\ltrpar\ql\fi-431\li720\s31{\*\abilist\abilistid4\abilistparentid0\abilistlevel1\abistartat0{\abifieldfont NULL}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls8\ilvl0\sl331\slmult1\itap0{\s31\f0\fs22\lang1025{\*\listtag0}\abinodiroverride\ltrch \~\~\~ }{\s31\f0\fs22\lang1025{\*\listtag0}By the completion of this project, shareholders should expect a 15% to 25% decrease in the overall cost of instrument repair and also for the time of a completed repair service to be decreased from a week or more to no more than 5 days.}{\s31\f0\fs22\b\lang1025{\*\listtag0} }{\s31\f0\fs22\lang1025{\*\listtag1305}\par}
+}{\listtext\pard\fi-431\li720\bullet 	}\pard\plain{\ltrpar\ql\fi-431\li720\s31{\*\abilist\abilistid5\abilistparentid0\abilistlevel1\abistartat0{\abifieldfont NULL}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls9\ilvl0\sl331\slmult1\itap0{\s31\f0\fs22\b\lang1025{\*\listtag0}\abinodiroverride\ltrch Timeframe: When will the target metric be achieved?}{\s31\f0\fs22\b\lang1025{\*\listtag0}\par}
+}{\listtext\pard\fi-431\li720\bullet 	}\pard\plain{\ltrpar\ql\fi-431\li720\s31{\*\abilist\abilistid5\abilistparentid0\abilistlevel1\abistartat0{\abifieldfont NULL}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls9\ilvl0\sl331\slmult1\itap0{\s31\f0\fs22\lang1025{\*\listtag0}\abinodiroverride\ltrch \~\~\~ }{\s31\f0\fs22\lang1025{\*\listtag0}We should be able to achieve our target metric within the next 2 months.}{\s31\f0\fs22\b\lang1025{\*\listtag0} }{\s31\f0\fs22\lang1025{\*\listtag1306}\par}
+}{\listtext\pard\fi-431\li720\bullet 	}\pard\plain{\ltrpar\ql\fi-431\li720\s31{\*\abilist\abilistid6\abilistparentid0\abilistlevel1\abistartat0{\abifieldfont NULL}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls10\ilvl0\sl331\slmult1\itap0{\s31\f0\fs22\b\lang1025{\*\listtag0}\abinodiroverride\ltrch Summarize the MOV}{\s31\f0\fs22\b\lang1025{\*\listtag0}\par}
+}{\listtext\pard\fi-431\li720\bullet 	}\pard\plain{\ltrpar\ql\fi-431\li720\s31{\*\abilist\abilistid6\abilistparentid0\abilistlevel1\abistartat0{\abifieldfont NULL}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls10\ilvl0\sl331\slmult1\itap0{\s31\f0\fs22\lang1025{\*\listtag0}\abinodiroverride\ltrch \~\~\~ }{\s31\f0\fs22\lang1025{\*\listtag0}This project will be successful if we achieve our operational goals of lowering costs by 15% to 25%, making repair more efficient by reducing the time service is completed to no more than 5 days, and if we achieve our target metric within the next 2 months}{\s31\f0\fs22\b\lang1025{\*\listtag0}.}{\s31\f0\fs29\b\lang1025{\*\listtag0} }{\s31\f0\fs22\lang1025{\*\listtag1307}\par}
+}{\listtext\pard\fi-360\li720 4.	}\pard\plain{\ltrpar\ql\fi-360\li720\s27{\*\abilist\abilistid100\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont NULL}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle None}}{\*\pn\pnql\pnstart1\pnlvlbody\pndec{\pntxtb }{\pntxta .}}\fn-360\li720\ls1\ilvl0\itap0{\s27\f0\fs28\lang1025{\*\listtag0}\abinodiroverride\ltrch \uc0\u-257 }{\s27\f0\fs28\b\lang1025{\*\listtag0}A list of the resources needed to complete the project and estimate cost}{\s27\f0\fs28\b\lang1025{\*\listtag1285}\par}
+}{\listtext\pard\fi-431\li1440\bullet 	}\pard\plain{\ltrpar\ql\fi-431\li1440\s27{\*\abilist\abilistid1322\abilistparentid0\abilistlevel1\abistartat0{\abifieldfont Arial}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls11\ilvl0\itap0{\s27\f0\fs22\lang1025{\*\listtag0}\abinodiroverride\ltrch People}{\s27\f0\fs22\lang1025{\*\listtag1323}\par}
+}{\listtext\pard\fi-431\li2160\bullet 	}\pard\plain{\ltrpar\ql\fi-431\li2160\s27{\*\abilist\abilistid1327\abilistparentid1322\abilistlevel2\abistartat0{\abifieldfont Arial}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls12\ilvl1\itap0{\s27\f0\fs22\lang1025{\*\listtag0}\abinodiroverride\ltrch Security consultant - $80,000 base}{\s27\f0\fs22\lang1025{\*\listtag1326}\par}
+}{\listtext\pard\fi-431\li2880\bullet 	}\pard\plain{\ltrpar\ql\fi-431\li2880\s27{\*\abilist\abilistid1774\abilistparentid1327\abilistlevel3\abistartat0{\abifieldfont Arial}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls18\ilvl2\itap0{\s27\f0\fs22\lang1025{\*\listtag0}\abinodiroverride\ltrch physical on-site security}{\s27\f0\fs22\lang1025{\*\listtag1771}\par}
+}{\listtext\pard\fi-431\li2880\bullet 	}\pard\plain{\ltrpar\ql\fi-431\li2880\s27{\*\abilist\abilistid1774\abilistparentid1327\abilistlevel3\abistartat0{\abifieldfont Arial}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls18\ilvl2\itap0{\s27\f0\fs22\lang1025{\*\listtag0}\abinodiroverride\ltrch IT security}{\s27\f0\fs22\lang1025{\*\listtag1775}\par}
+}{\listtext\pard\fi-431\li2160\bullet 	}\pard\plain{\ltrpar\ql\fi-431\li2160\s27{\*\abilist\abilistid1327\abilistparentid1322\abilistlevel2\abistartat0{\abifieldfont Arial}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls12\ilvl1\itap0{\s27\f0\fs22\lang1025{\*\listtag0}\abinodiroverride\ltrch Instrument repair technicians - $34,000 base per tech}{\s27\f0\fs22\lang1025{\*\listtag1328}\par}
+}{\listtext\pard\fi-431\li2880\bullet 	}\pard\plain{\ltrpar\ql\fi-431\li2880\s27{\*\abilist\abilistid1776\abilistparentid1327\abilistlevel3\abistartat0{\abifieldfont Arial}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls19\ilvl2\itap0{\s27\f0\fs22\lang1025{\*\listtag0}\abinodiroverride\ltrch specialists in Brass, Woodwind, String, Percussion}{\s27\f0\fs22\lang1025{\*\listtag1772}\par}
+}{\listtext\pard\fi-431\li2160\bullet 	}\pard\plain{\ltrpar\ql\fi-431\li2160\s27{\*\abilist\abilistid1327\abilistparentid1322\abilistlevel2\abistartat0{\abifieldfont Arial}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls12\ilvl1\itap0{\s27\f0\fs22\lang1025{\*\listtag0}\abinodiroverride\ltrch Front desk receptionist - $25,000 base per receptionist}{\s27\f0\fs22\lang1025{\*\listtag1329}\par}
+}{\listtext\pard\fi-431\li2880\bullet 	}\pard\plain{\ltrpar\ql\fi-431\li2880\s27{\*\abilist\abilistid1777\abilistparentid1327\abilistlevel3\abistartat0{\abifieldfont Arial}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls20\ilvl2\itap0{\s27\f0\fs22\lang1025{\*\listtag0}\abinodiroverride\ltrch handles cash register}{\s27\f0\fs22\lang1025{\*\listtag1773}\par}
+}{\listtext\pard\fi-431\li2880\bullet 	}\pard\plain{\ltrpar\ql\fi-431\li2880\s27{\*\abilist\abilistid1777\abilistparentid1327\abilistlevel3\abistartat0{\abifieldfont Arial}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls20\ilvl2\itap0{\s27\f0\fs22\lang1025{\*\listtag0}\abinodiroverride\ltrch provides customer service}{\s27\f0\fs22\lang1025{\*\listtag1778}\par}
+}{\listtext\pard\fi-431\li2880\bullet 	}\pard\plain{\ltrpar\ql\fi-431\li2880\s27{\*\abilist\abilistid1777\abilistparentid1327\abilistlevel3\abistartat0{\abifieldfont Arial}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls20\ilvl2\itap0{\s27\f0\fs22\lang1025{\*\listtag0}\abinodiroverride\ltrch accepts broken instruments from customers}{\s27\f0\fs22\lang1025{\*\listtag1779}\par}
+}{\listtext\pard\fi-431\li2880\bullet 	}\pard\plain{\ltrpar\ql\fi-431\li2880\s27{\*\abilist\abilistid1777\abilistparentid1327\abilistlevel3\abistartat0{\abifieldfont Arial}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls20\ilvl2\itap0{\s27\f0\fs22\lang1025{\*\listtag0}\abinodiroverride\ltrch inputs customer information into database}{\s27\f0\fs22\lang1025{\*\listtag1780}\par}
+}{\listtext\pard\fi-431\li1440\bullet 	}\pard\plain{\ltrpar\ql\fi-431\li1440\s27{\*\abilist\abilistid1322\abilistparentid1322\abilistlevel1\abistartat0{\abifieldfont Arial}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls11\ilvl0\itap0{\s27\f0\fs22\lang1025{\*\listtag0}\abinodiroverride\ltrch Technology}{\s27\f0\fs22\lang1025{\*\listtag1331}\par}
+}{\listtext\pard\fi-431\li2160\bullet 	}\pard\plain{\ltrpar\ql\fi-431\li2160\s27{\*\abilist\abilistid1333\abilistparentid1322\abilistlevel2\abistartat0{\abifieldfont Arial}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls13\ilvl1\itap0{\s27\f0\fs22\lang1025{\*\listtag0}\abinodiroverride\ltrch video surveillance - $1,000}{\s27\f0\fs22\lang1025{\*\listtag1332}\par}
+}{\listtext\pard\fi-431\li2160\bullet 	}\pard\plain{\ltrpar\ql\fi-431\li2160\s27{\*\abilist\abilistid1333\abilistparentid1322\abilistlevel2\abistartat0{\abifieldfont Arial}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls13\ilvl1\itap0{\s27\f0\fs22\lang1025{\*\listtag0}\abinodiroverride\ltrch modern locking systems}{\s27\f0\fs22\lang1025{\*\listtag1334}\par}
+}{\listtext\pard\fi-431\li2160\bullet 	}\pard\plain{\ltrpar\ql\fi-431\li2160\s27{\*\abilist\abilistid1333\abilistparentid1322\abilistlevel2\abistartat0{\abifieldfont Arial}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls13\ilvl1\itap0{\s27\f0\fs22\lang1025{\*\listtag0}\abinodiroverride\ltrch instrument repair supplies}{\s27\f0\fs22\lang1025{\*\listtag1336}\par}
+}{\listtext\pard\fi-431\li2160\bullet 	}\pard\plain{\ltrpar\ql\fi-431\li2160\s27{\*\abilist\abilistid1333\abilistparentid1322\abilistlevel2\abistartat0{\abifieldfont Arial}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls13\ilvl1\itap0{\s27\f0\fs22\lang1025{\*\listtag0}\abinodiroverride\ltrch workstations - $1,221}{\s27\f0\fs22\lang1025{\*\listtag1337}\par}
+}{\listtext\pard\fi-431\li2160\bullet 	}\pard\plain{\ltrpar\ql\fi-431\li2160\s27{\*\abilist\abilistid1333\abilistparentid1322\abilistlevel2\abistartat0{\abifieldfont Arial}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls13\ilvl1\itap0{\s27\f0\fs22\lang1025{\*\listtag0}\abinodiroverride\ltrch cloud software - $188}{\s27\f0\fs22\lang1025{\*\listtag1338}\par}
+}{\listtext\pard\fi-431\li2160\bullet 	}\pard\plain{\ltrpar\ql\fi-431\li2160\s27{\*\abilist\abilistid1333\abilistparentid1322\abilistlevel2\abistartat0{\abifieldfont Arial}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls13\ilvl1\itap0{\s27\f0\fs22\lang1025{\*\listtag0}\abinodiroverride\ltrch software licenses - $609}{\s27\f0\fs22\lang1025{\*\listtag1359}\par}
+}{\listtext\pard\fi-431\li1440\bullet 	}\pard\plain{\ltrpar\ql\fi-431\li1440\s27{\*\abilist\abilistid1322\abilistparentid1322\abilistlevel1\abistartat0{\abifieldfont Arial}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls11\ilvl0\itap0{\s27\f0\fs22\lang1025{\*\listtag0}\abinodiroverride\ltrch Facilities}{\s27\f0\fs22\lang1025{\*\listtag1342}\par}
+}{\listtext\pard\fi-431\li2160\bullet 	}\pard\plain{\ltrpar\ql\fi-431\li2160\s27{\*\abilist\abilistid1344\abilistparentid1322\abilistlevel2\abistartat0{\abifieldfont Arial}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls14\ilvl1\itap0{\s27\f0\fs22\lang1025{\*\listtag0}\abinodiroverride\ltrch warehouse}{\s27\f0\fs22\lang1025{\*\listtag1343}\par}
+}{\listtext\pard\fi-431\li1440\bullet 	}\pard\plain{\ltrpar\ql\fi-431\li1440\s27{\*\abilist\abilistid1322\abilistparentid1322\abilistlevel1\abistartat0{\abifieldfont Arial}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls11\ilvl0\itap0{\s27\f0\fs22\lang1025{\*\listtag0}\abinodiroverride\ltrch Other}{\s27\f0\fs22\lang1025{\*\listtag1350}\par}
+}{\listtext\pard\fi-431\li2160\bullet 	}\pard\plain{\ltrpar\ql\fi-431\li2160\s27{\*\abilist\abilistid1352\abilistparentid1322\abilistlevel2\abistartat0{\abifieldfont Arial}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls15\ilvl1\itap0{\s27\f0\fs22\lang1025{\*\listtag0}\abinodiroverride\ltrch Training workshop}{\s27\f0\fs22\lang1025{\*\listtag1351}\par}
+}\pard\plain\ltrpar\ql\li720\s27\itap0{\s27\f0\fs22\lang1025{\*\listtag0}\par}
+{\listtext\pard\fi-360\li720 5.	}\pard\plain{\ltrpar\ql\fi-360\li720\s27{\*\abilist\abilistid100\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont NULL}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle None}}{\*\pn\pnql\pnstart1\pnlvlbody\pndec{\pntxtb }{\pntxta .}}\fn-360\li720\ls1\ilvl0\itap0{\s27\f0\fs28\lang1025{\*\listtag0}\abinodiroverride\ltrch \uc0\u-257 }{\s27\f0\fs28\b\lang1025{\*\listtag0}References}{\s27\f0\fs28\b\lang1025{\*\listtag1288}\par}
+}{\listtext\pard\fi-431\li1440\bullet 	}\pard\plain{\ltrpar\ql\fi-431\li1440\s27{\*\abilist\abilistid1415\abilistparentid0\abilistlevel1\abistartat0{\abifieldfont Arial}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls17\ilvl0\itap0{\s27\f0\fs22\lang1025{\*\listtag0}\abinodiroverride\ltrch security consultant: }{\field{\*\fldinst {\f0\fs22\lang1025{\*\listtag0} HYPERLINK "http://www.payscale.com/research/US/Job=Security_Consultant,_IT/Salary"}}{\*\fldrslt{\s27\f0\fs22\lang1025{\*\listtag0}http://www.payscale.com/research/US/Job=Security_Consultant%2c_IT/Salary}}}{\s27\f0\fs22\lang1025{\*\listtag1416}\par}
+}{\listtext\pard\fi-431\li1440\bullet 	}\pard\plain{\ltrpar\ql\fi-431\li1440\s27{\*\abilist\abilistid1415\abilistparentid0\abilistlevel1\abistartat0{\abifieldfont Arial}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls17\ilvl0\itap0{\s27\f0\fs22\lang1025{\*\listtag0}\abinodiroverride\ltrch instrument repair technicians: }{\field{\*\fldinst {\f0\fs22\lang1025{\*\listtag0} HYPERLINK "http://www.payscale.com/research/US/Job=Instrument_Repair_Technician/Hourly_Rate"}}{\*\fldrslt{\s27\f0\fs22\lang1025{\*\listtag0}http://www.payscale.com/research/US/Job=Instrument_Repair_Technician/Hourly_Rate}}}{\s27\f0\fs22\lang1025{\*\listtag1417}\par}
+}{\listtext\pard\fi-431\li1440\bullet 	}\pard\plain{\ltrpar\ql\fi-431\li1440\s27{\*\abilist\abilistid1415\abilistparentid0\abilistlevel1\abistartat0{\abifieldfont Arial}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls17\ilvl0\itap0{\s27\f0\fs22\lang1025{\*\listtag0}\abinodiroverride\ltrch front desk receptionist: }{\field{\*\fldinst {\f0\fs22\lang1025{\*\listtag0} HYPERLINK "http://www.payscale.com/research/US/Job=Front_Desk_Receptionist/Hourly_Rate"}}{\*\fldrslt{\s27\f0\fs22\lang1025{\*\listtag0}http://www.payscale.com/research/US/Job=Front_Desk_Receptionist/Hourly_Rate}}}{\s27\f0\fs22\lang1025{\*\listtag1418}\par}
+}{\listtext\pard\fi-431\li1440\bullet 	}\pard\plain{\ltrpar\ql\fi-431\li1440\s27{\*\abilist\abilistid1415\abilistparentid0\abilistlevel1\abistartat0{\abifieldfont Arial}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls17\ilvl0\itap0{\s27\f0\fs22\lang1025{\*\listtag0}\abinodiroverride\ltrch workstations: }{\field{\*\fldinst {\f0\fs22\lang1025{\*\listtag0} HYPERLINK "http://www.amazon.com/Dell-Inspiron-i3455-1240BLK-23-8-Inch-Desktop/dp/B00YARCAYS"}}{\*\fldrslt{\s27\f0\fs22\lang1025{\*\listtag0}http://www.amazon.com/Dell-Inspiron-i3455-1240BLK-23-8-Inch-Desktop/dp/B00YARCAYS}}}{\s27\f0\fs22\lang1025{\*\listtag1443}\par}
+}{\listtext\pard\fi-431\li1440\bullet 	}\pard\plain{\ltrpar\ql\fi-431\li1440\s27{\*\abilist\abilistid1415\abilistparentid0\abilistlevel1\abistartat0{\abifieldfont Arial}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls17\ilvl0\itap0{\s27\f0\fs22\lang1025{\*\listtag0}\abinodiroverride\ltrch cloud: }{\field{\*\fldinst {\f0\fs22\lang1025{\*\listtag0} HYPERLINK "http://www.amazon.com/QNAP-TS-231-Personal-Mobile-Support/dp/B00O3Y7F02"}}{\*\fldrslt{\s27\f0\fs22\lang1025{\*\listtag0}http://www.amazon.com/QNAP-TS-231-Personal-Mobile-Support/dp/B00O3Y7F02}}}{\s27\f0\fs22\lang1025{\*\listtag1444}\par}
+}{\listtext\pard\fi-431\li1440\bullet 	}\pard\plain{\ltrpar\ql\fi-431\li1440\s27{\*\abilist\abilistid1415\abilistparentid0\abilistlevel1\abistartat0{\abifieldfont Arial}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls17\ilvl0\itap0{\s27\f0\fs22\lang1025{\*\listtag0}\abinodiroverride\ltrch Microsoft software: }{\field{\*\fldinst {\f0\fs22\lang1025{\*\listtag0} HYPERLINK "http://www.amazon.com/Microsoft-Office-Student-1User-Download/dp/B00B1TGUMG"}}{\*\fldrslt{\s27\f0\fs22\lang1025{\*\listtag0}http://www.amazon.com/Microsoft-Office-Student-1User-Download/dp/B00B1TGUMG}}}{\s27\f0\fs22\lang1025{\*\listtag1445}\par}
+}{\listtext\pard\fi-431\li1440\bullet 	}\pard\plain{\ltrpar\ql\fi-431\li1440\s27{\*\abilist\abilistid1415\abilistparentid0\abilistlevel1\abistartat0{\abifieldfont Arial}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls17\ilvl0\itap0{\s27\f0\fs22\lang1025{\*\listtag0}\abinodiroverride\ltrch Quickbooks software: }{\field{\*\fldinst {\f0\fs22\lang1025{\*\listtag0} HYPERLINK "http://accessories.us.dell.com/sna/productdetail.aspx?c=us&l=en&s=&cs=04&sku=A8569014&dgc=ST&cid=262075&lid=4742361&acd=12309152537461010&ven1=s1IRPMo3W&ven2=,"}}{\*\fldrslt{\s27\f0\fs22\lang1025{\*\listtag0}http://accessories.us.dell.com/sna/productdetail.aspx?c=us&l=en&s=&cs=04&sku=A8569014&dgc=ST&cid=262075&lid=4742361&acd=12309152537461010&ven1=s1IRPMo3W&ven2=,}}}{\s27\f0\fs22\lang1025{\*\listtag1446}\par}
+}{\listtext\pard\fi-431\li1440\bullet 	}\pard\plain{\ltrpar\ql\fi-431\li1440\s27{\*\abilist\abilistid1415\abilistparentid0\abilistlevel1\abistartat0{\abifieldfont Arial}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls17\ilvl0\itap0{\s27\f0\fs22\lang1025{\*\listtag0}\abinodiroverride\ltrch warehouse: }{\field{\*\fldinst {\f0\fs22\lang1025{\*\listtag0} HYPERLINK "http://www.loopnet.com/Listing/19353953/4104-LB-McLeod-Rd-Orlando-FL/"}}{\*\fldrslt{\s27\f0\fs22\lang1025{\*\listtag0}http://www.loopnet.com/Listing/19353953/4104-LB-McLeod-Rd-Orlando-FL/}}}{\s27\f0\fs22\lang1025{\*\listtag1460}\par}
+}{\listtext\pard\fi-431\li1440\bullet 	}\pard\plain{\ltrpar\ql\fi-431\li1440\s27{\*\abilist\abilistid1415\abilistparentid0\abilistlevel1\abistartat0{\abifieldfont Arial}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls17\ilvl0\itap0{\s27\f0\fs22\lang1025{\*\listtag0}\abinodiroverride\ltrch training }{\s27\f0\fs22\lang1025{\*\listtag0}workshop: }{\s27\f0\fs22\lang1033{\*\listtag0}\uc0\u-257 }{\s27\cf3\f0\fs22\ul\lang1033{\*\listtag0}http://stuorgs.uwsp.edu/mtna/pages/instrument-repair-workshop.aspx}{\s27\f0\fs22\lang1025{\*\listtag1461}\par}
+}{\listtext\pard\fi-431\li1440\bullet 	}\pard\plain{\ltrpar\ql\fi-431\li1440\s27{\*\abilist\abilistid1415\abilistparentid0\abilistlevel1\abistartat0{\abifieldfont Arial}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls17\ilvl0\itap0{\s27\f0\fs22\lang1025{\*\listtag0}\abinodiroverride\ltrch video surveillance: }{\field{\*\fldinst {\f0\fs22\lang1025{\*\listtag0} HYPERLINK "http://www.fixr.com/costs/install-video-surveillance-cameras#specificQuestionnaire"}}{\*\fldrslt{\s27\f0\fs22\lang1025{\*\listtag0}http://www.fixr.com/costs/install-video-surveillance-cameras#specificQuestionnaire}}}{\s27\f0\fs22\lang1025{\*\listtag1554}\par}
+}\pard\plain\ltrpar\ql\li720\s27\itap0{\s27\cf3\f0\fs22\ul\lang1025{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\li720\s27\itap0{\s27\f0\fs22\lang1025{\*\listtag0}\par}
+{\listtext\pard\fi-360\li720 6.	}\pard\plain{\ltrpar\ql\fi-360\li720\s31{\*\abilist\abilistid100\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont NULL}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle None}}{\*\pn\pnql\pnstart1\pnlvlbody\pndec{\pntxtb }{\pntxta .}}\fn-360\li720\ls1\ilvl0\itap0{\s31\f0\fs22\lang1025{\*\listtag1289}\par}
+}\pard\plain\ltrpar\ql\s31\itap0{\s31\f0\fs22\lang1025{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s27\itap0{\s27\f0\fs28\b\lang1025{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s27\sl240\slmult1\itap0{\s27\f0\fs22\lang1025{\*\listtag0}\abinodiroverride\ltrch \uc0\u-257 }{\s27\f0\fs22\lang1025{\*\listtag0}\uc0\u-257 }{\s27\f0\fs22\lang1025{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s27\itap0{\s27\f0\fs28\b\lang1025{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\itap0{\s32\f0\fs22\lang1025{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\itap0{\f0\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s27\itap0{\s27\f0\fs22\lang1025{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\itap0{\f0\fs22\b\lang1033{\*\listtag0}\abinodiroverride\ltrch \page }{\f0\fs22\b\lang1033{\*\listtag0}\par}}
